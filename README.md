@@ -8,3 +8,11 @@ This will show a dashboard of a map and two charts that sumamarises your (journa
 
 ![Python dahsboard](https://github.com/natarslan/Obsidian-PostgreSQL-Python/blob/main/2022-10-31-Obsidian-PostgreSQL-Python.jpg)
 
+Packages you need:
+- streamlit
+- pandas 
+- numpy 
+- psycopg2
+- folium
+- geopandas
+- plotly
