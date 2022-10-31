@@ -1,4 +1,4 @@
-# Obsidian-PostgreSQL-Python
+# Using Obsidian-PostgreSQL-Python to Visualise My Notes 
 How I analyse my markdown files using Obsidian, PostgreSQL database and Python.
 
 Download the project, go to download directory and run:
