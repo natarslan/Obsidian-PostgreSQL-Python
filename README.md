@@ -1,6 +1,8 @@
 # Obsidian-PostgreSQL-Python
 How I analyse my markdown files using Obsidian (markdown files), PostgreSQL database and Python in Jupyter Notebooks.
 
+![Python dahsboard](https://github.com/natarslan/Obsidian-PostgreSQL-Python/blob/main/2022-10-31-Obsidian-PostgreSQL-Python.jpg)
+
 Download the project, go to download directory and run
 > streamlit run myapp.py 
 
